@@ -1,0 +1,14 @@
+.card {
+    margin-top: 65px;
+    height: 400px;
+    width: calc(25% - 20px);
+}
+.card-detail{
+    margin-bottom: 20px;
+}
+.flex {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    flex-wrap:wrap;
+}

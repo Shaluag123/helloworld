@@ -1,0 +1,16 @@
+.card {
+    margin-top: 8px;
+
+    width: calc(25% - 20px);
+}
+.card-detail{
+    margin-bottom: 20px;
+}
+.flex {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    flex-wrap:wrap;
+}
+
+
